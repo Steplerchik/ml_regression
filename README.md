@@ -1,4 +1,4 @@
-# Machine Learning: Foundations
+# Machine Learning: Regression
 
 ### Course modules:
 
